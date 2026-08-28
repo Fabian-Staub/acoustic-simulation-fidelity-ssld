@@ -19,4 +19,6 @@ These files are kept for completeness, but they are not necessarily well organiz
 
 ## Note
 
-This repository is still being cleaned up and may not be fully complete yet.
+This repository contains code developed for the thesis research and is not intended as a production-ready software project. As a result, some parts of the structure, naming, or code organization may be unconventional.
+
+The repository is still being cleaned up, and some files or documentation may not yet be complete.
