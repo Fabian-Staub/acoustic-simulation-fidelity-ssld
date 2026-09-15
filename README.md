@@ -1,4 +1,4 @@
-# Acoustic Simulation Complexity for SSLD
+# Acoustic Simulation Complexity for Sound Source Localization and Detection (SSLD)
 
 This repository contains the digital appendix to the Master's thesis
 
