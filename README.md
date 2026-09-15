@@ -1,4 +1,4 @@
-# Acoustic Simulation Fidelity for SSLD
+# Acoustic Simulation Complexity for SSLD
 
 This repository contains the digital appendix to the Master's thesis
 
